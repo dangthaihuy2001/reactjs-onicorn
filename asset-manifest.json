@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjs-onicorn/static/css/main.833cae9a.chunk.css",
+    "main.js": "/reactjs-onicorn/static/js/main.324c7db1.chunk.js",
+    "main.js.map": "/reactjs-onicorn/static/js/main.324c7db1.chunk.js.map",
+    "runtime-main.js": "/reactjs-onicorn/static/js/runtime-main.45e1d6f5.js",
+    "runtime-main.js.map": "/reactjs-onicorn/static/js/runtime-main.45e1d6f5.js.map",
+    "static/js/2.c148fde7.chunk.js": "/reactjs-onicorn/static/js/2.c148fde7.chunk.js",
+    "static/js/2.c148fde7.chunk.js.map": "/reactjs-onicorn/static/js/2.c148fde7.chunk.js.map",
+    "index.html": "/reactjs-onicorn/index.html",
+    "static/css/main.833cae9a.chunk.css.map": "/reactjs-onicorn/static/css/main.833cae9a.chunk.css.map",
+    "static/js/2.c148fde7.chunk.js.LICENSE.txt": "/reactjs-onicorn/static/js/2.c148fde7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45e1d6f5.js",
+    "static/js/2.c148fde7.chunk.js",
+    "static/css/main.833cae9a.chunk.css",
+    "static/js/main.324c7db1.chunk.js"
+  ]
+}
